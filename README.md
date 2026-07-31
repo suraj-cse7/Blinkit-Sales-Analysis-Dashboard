@@ -24,7 +24,7 @@ The objective of this project is to analyze Blinkit's sales data and build an in
 
 > **Dashboard Screenshot**
 
-![Blinkit Dashboard](Blinkit.PNG)
+<img src="./Blinkit.PNG" alt="Blinkit Dashboard" width="100%">
 
 ---
 
